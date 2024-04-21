@@ -20,7 +20,7 @@ ourData={
     },
     {
       "tag": "greeting",
-      "patterns": ["Hi", "Hello", "Hey", "Hola", "sup?", "Greetings", "Good day", "Howdy"],
+      "patterns": ["Hi", "Hello", "Hey", "Hola", "sup?", "Greetings", "Good day", "Howdy","how are you?"],
       "responses": ["Hey There", "Hello", "Hi", "Namaskaar", "Greetings!", "Howdy!"]
     },
     {
